@@ -25,4 +25,4 @@ Pull requestler kabl edilir. Büyük değişiklikler için, lütfen önce neyi d
 
 ## Image
 
-![Manzara Resmi](https://images.app.goo.gl/TSqDJ8zDjpSfZdRv8)
+![Manzara Resmi](manzararesmi.jpg)
